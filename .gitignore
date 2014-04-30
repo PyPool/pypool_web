@@ -52,3 +52,13 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+# IDEA / PyCharm
+.idea/
+
+# Dev Sqlite files
+*.db
+*.db3
+
+# Django Static Folders
+static/
+!*/*/static/
